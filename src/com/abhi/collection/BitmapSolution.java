@@ -24,9 +24,7 @@ public class BitmapSolution {
 	}
 	
 	public static void main(String[] args) {
-		int A[] = {1, 4, 11, 6, 10, 8};
 		int test[] = {2,6,7,1,14,9,8,3,4,8};
-        int n = 16;
         printpairs(test,  16);
 	}
 
