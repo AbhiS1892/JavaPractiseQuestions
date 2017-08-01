@@ -1,6 +1,6 @@
 package com.abhi.basic;
 
-public class fibonacci_recursion {
+public class Fibonacci_Recursion {
 	static int n1=0, n2=1, n3=0;
 	
 	static int fibonacci(int n){
